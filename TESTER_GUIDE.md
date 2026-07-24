@@ -39,3 +39,28 @@
 버그·연동 문제·UX 개선점을 팀 채널이나 운영자에게 전달하면 이슈로 전환됩니다.
 **절대 붙여넣지 마세요**: 비밀번호, 초대 코드 원문, 실제 대화 내용, 토큰/키.
 재현 절차 + 스크린샷(민감정보 가림) 위주로 남겨주세요.
+
+## 7. 운영자용: 초대 카드 (복붙 템플릿)
+
+새 팀원을 초대할 때 아래 한 장을 그대로 보내면 됩니다. `momo-ops.sh invite-create`가
+출력하는 **초대 링크(`momo://join?...`)** 하나에 서버 주소와 초대 코드가 모두 들어 있어,
+받는 사람은 링크를 클릭하고 이메일·비밀번호만 정하면 됩니다.
+
+> **momo에 초대할게요**
+> 1. 앱 받기: https://dawn-kim-official.github.io/momo-alpha/ (설치는 페이지 안내 참고)
+> 2. 앱 실행 후 이 링크를 클릭: `momo://join?server=...&code=...` ← invite-create 출력값으로 교체
+> 3. 이메일과 비밀번호만 정하면 입장 완료. 채널에서 에이전트가 먼저 인사할 거예요.
+>
+> 참고: 사무실 와이파이에서만 접속됩니다. 링크가 동작하지 않으면 앱 첫 화면에서
+> "초대받은 팀에 참여"를 누르고 서버 `http://MacBook-Pro-2.local:28000` 과 초대 코드를 직접 입력하세요.
+
+초대 링크 발급(운영자 맥에서):
+
+```sh
+infra/prod/momo-ops.sh invite-create --from-env \
+  --workspace-id <WORKSPACE_UUID> --role member --max-uses 1 \
+  --server-url http://MacBook-Pro-2.local:28000 --output /tmp/invite-code.txt
+```
+
+마지막 줄에 출력되는 `momo://join?...` 링크를 위 템플릿에 붙여 넣으세요.
+초대 코드 원문(`--output` 파일)은 공유 채널에 올리지 않습니다.
