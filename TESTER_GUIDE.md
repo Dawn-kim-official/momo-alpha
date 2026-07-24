@@ -6,10 +6,7 @@
 
 1. [다운로드 페이지](https://dawn-kim-official.github.io/momo-alpha/)에서 최신 빌드 zip을 받습니다.
 2. zip을 풀고 앱을 `/응용 프로그램`으로 옮깁니다.
-3. **첫 실행은 우클릭 → 열기**로 승인합니다(서명 안 된 내부 빌드). 막히면 터미널에서:
-   ```sh
-   xattr -d com.apple.quarantine /Applications/Momo*.app
-   ```
+3. **더블클릭으로 바로 실행**합니다(0.0.5부터 서명·공증 빌드). 0.0.4 이하 구버전만 우클릭 → 열기가 필요합니다.
 4. (선택) 받은 zip 무결성 확인: `shasum -a 256 <zip>` 값이 페이지의 SHA-256과 같은지 대조.
 
 ## 2. 서버 연결
