@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-next.7",
-  "notes": "momo-next 내부 빌드 0.1.0-next.7",
-  "pub_date": "2026-07-25T12:35:12Z",
+  "version": "0.1.0-next.8",
+  "notes": "momo-next 내부 빌드 0.1.0-next.8",
+  "pub_date": "2026-07-25T16:40:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZXZFVHEvaXV6OEhsTmVMa3hXdlFOU3l0Mm5RazV3dFUxSUQvejUyM1d1R2FhRFhuMGxWVHY4QzVqUlZxWDZ4elYzVzMxS05SMlRySlNDRUhmR1BlM2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTgyOTA3CWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuNy1kYXJ3aW4tYWFyY2g2NC5hcHAudGFyLmd6CjlQRWJQYXV6TFgrVkRnVmdnZkQyWU5DdFpocSt1S0lveWMwVDJ1UDkvRHh2NUdVR25VdS9qbmx5RVg1Wit6ZXc2aStIeTZQRzJNWUp4cHlJdGV0dkFRPT0K",
-      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.7/momo-next-0.1.0-next.7-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZXVQOFNhVG9uUVVnU2NzT3lEQkpGUEx2Y3FqV0EwRWpCN3hyQVRvN2g4c1ZzenZvNHlGSUJLS1RoU2FXRXc1dXRiVjVMNWVxWFlUVGFjYlc1VTZhb1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTk3NTk1CWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuOC1kYXJ3aW4tYWFyY2g2NC5hcHAudGFyLmd6CnBycFlzMytFT28veEJvaWM3dHZteWN1aUZiaVpJWGtINmFQOG01cGtMVlVzbTdLSXpLUTBsMmp2Y0xLM1JyUGllcUJKMUxoV3U0RzB2TkZTSjhxdENBPT0K",
+      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.8/momo-next-0.1.0-next.8-darwin-aarch64.app.tar.gz"
     }
   }
 }
