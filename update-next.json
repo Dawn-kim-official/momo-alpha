@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-next.3",
-  "notes": "업데이트 경로 종단 확인용 빌드입니다.",
-  "pub_date": "2026-07-25T06:55:10Z",
+  "version": "0.1.0-next.4",
+  "notes": "첫 실행에서 키체인 암호 창이 뜨지 않습니다.",
+  "pub_date": "2026-07-25T07:01:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZW1QRUNYOTRLcjAyWXJpSG0vZ2JVS2pmblBSMklxRXkyWVZNc3B0ZjNldkwrSXNqakNmU0s0YzljNjJLTUh3dEFBcC9xakpmam40aVVWTWdiOGZ5RWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTYyNTA2CWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuMy1kYXJ3aW4tYWFyY2g2NC5hcHAudGFyLmd6CkdidWJRNDlyN3RjZHlFOS9sOEt4dCtKaXk3elgrMXc5T1NlbTdsZU90Q2JvRHdqYXIrQ2svSEhtRkgyUlFkd1I4cmlOeHB0SklYUGZIOHB6aTFQaEF3PT0K",
-      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.3/momo-next-0.1.0-next.3-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZXR2QUt4Ni9udmF1d0JnOXdKSFRPQTVKUkVJV1RqVk9DaGMybGM3S3pVYytieGF5cjg1NVJrWm1vVU0xeUJYK2pkK1V4bHg2S3F5ZXkrKzJDa3FTVmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTYyODU3CWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuNC1kYXJ3aW4tYWFyY2g2NC5hcHAudGFyLmd6CnVVdlRtcHVGQlgzbS9md1ZWTmZoOGxNVjlmbnRRdnp2YTdCVG1HOFllUkljYjNVb3R1TTF3VU1mSk5xeVpqemsxc01xemo1UkhIK3l5V3MveTE3UUNRPT0K",
+      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.4/momo-next-0.1.0-next.4-darwin-aarch64.app.tar.gz"
     }
   }
 }
