@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0-next.1",
+  "notes": "momo-next 첫 발행: 앱이 스스로 업데이트합니다.",
+  "pub_date": "2026-07-25T06:50:08Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZWpOZkgvbWpKbUVLOUtoSWVESFFVdE0yZjhtTkIvU0xtTVFzV3VBUmF0NFVNQTVWOGpieFczcFZhT2VWMENGUDBNS044MFB4aW4yNUhWMUZSZmJRSWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTYyMjA0CWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuMS1kYXJ3aW4tYWFyY2g2NC5hcHAudGFyLmd6CmtNdFQ3QW03ZEJnbGJITEF6YlB4dDJTeWpEU0tsck02eGhkZGVFVzVaL2w1ZTRCL2YxbEFTTS9QWGlVNFRSNzh1RnRGYjY4ajRLa0FQaGNvOWNGU0JRPT0K",
+      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.1/momo-next-0.1.0-next.1-darwin-aarch64.app.tar.gz"
+    }
+  }
+}
