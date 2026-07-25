@@ -1,18 +1,25 @@
 {
   "schema_version": 1,
-  "channel": "alpha",
-  "version": "0.0.6",
-  "build": "1161",
-  "released_at": "2026-07-24T08:16:54Z",
+  "channel": "default",
+  "app": "momo (Tauri)",
+  "version": "0.1.0-next.7",
+  "build": "1242",
+  "released_at": "2026-07-25T12:42:09Z",
   "minimum_macos": "14.0",
-  "summary": "실사용 루프가 앱 안에서 완결됩니다. 운영자는 사이드바 메뉴에서 새 워크스페이스를 만들고, 초대 화면에서 초대 링크를 복사하거나 메일로 바로 보낼 수 있습니다. 사이드바 왼쪽 아래에 새 버전 알림이 떠서 클릭하면 업데이트 안내로 이동합니다. 코드 실행 호스트 연결 방법은 docs/AGENT_HOSTING_QUICKSTART.md를 참고하세요.",
-  "download_url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/v0.0.6/momo-macos-0.0.6.zip",
-  "release_notes_url": "https://github.com/Dawn-kim-official/momo-alpha/releases/tag/v0.0.6",
-  "sha256": "5104d1997efb2b69f78e568327262d97f8029886ef0f5df50a630d620ad6723f",
+  "summary": "기본 다운로드가 새 momo 앱입니다. 이후 업데이트는 앱 안에서 자동으로 안내됩니다.",
+  "download_url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.7/momo-next-0.1.0-next.7-darwin-aarch64.zip",
+  "release_notes_url": "https://github.com/Dawn-kim-official/momo-alpha/releases/tag/next-v0.1.0-next.7",
+  "sha256": "f8e45de487011e3e69a8ca2bee312f76b8f6f1f6a70dd967f3d35158f2db5486",
   "signed": true,
   "restart_instructions": [
     "Download and unzip the new build.",
-    "Replace the app in /Applications and relaunch.",
-    "Reopen Updates to confirm the new build."
-  ]
+    "Move momo.app into /Applications and launch.",
+    "In-app updates keep you current from here."
+  ],
+  "legacy": {
+    "app": "momo (SwiftUI, retired)",
+    "version": "0.0.6",
+    "download_url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/v0.0.6/momo-macos-0.0.6.zip",
+    "note": "구 앱 최종 빌드입니다. 신규 설치는 기본 다운로드를 사용하세요."
+  }
 }
