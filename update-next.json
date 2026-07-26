@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-next.9",
-  "notes": "momo-next 내부 빌드 0.1.0-next.9",
-  "pub_date": "2026-07-26T00:10:46Z",
+  "version": "0.1.0-next.10",
+  "notes": "ADR-0134·0135 통합 — 요청 단위 model·effort 라우팅, 프로바이더 캐스캐이드 체인, 잔여량 게이지 (MOMO-621~628)",
+  "pub_date": "2026-07-26T15:24:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZWlIWE9lVC8zMi91aFZEVmgraFk1TjJCeE8xNlhMRThoU1Y1eXZIZFpGNzRjbDNuZEwzdFdLNnlHN3pKd2RhNlI4bytrMDg4TERBWEdtNXRZVGZYZHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDI0NjQyCWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuOS1kYXJ3aW4tYWFyY2g2NC5hcHAudGFyLmd6CnJnNmdMc21OdW9zRFpPYStVMjVYamNLQmtvNS85UnUzbVYyMnpwbHFReWQvZ1NVWkIzbzA1YjZ0U2QvN2laZ0NIeW9yZ3FicEdicXdESjJDczhjZkJRPT0K",
-      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.9/momo-next-0.1.0-next.9-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTlpTbEgxMHR2ZXYyU1lyVXNGVDJtVk90THpWQS9vMjlMMHNWSWNWaU10T1lDelZTNktQNGN4NXRhd2VuUDBTYUJjWk1OR2dYQ3pMcXR6M2FMVW8vdWdYbEtWS0xOZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDc5NDcxCWZpbGU6bW9tby1uZXh0LTAuMS4wLW5leHQuMTAtZGFyd2luLWFhcmNoNjQuYXBwLnRhci5nego5bE1MV2s3UmxsMUtEVjVQemVzTWlJVWt6V0pZMlRDTC9UaXhFUUVHZG1ZWkxXNnIzR3JUNVFJcFRIQk5EeHJ0eW1OLytWc05ra0hPaGI1aWxyMFlEZz09Cg==",
+      "url": "https://github.com/Dawn-kim-official/momo-alpha/releases/download/next-v0.1.0-next.10/momo-next-0.1.0-next.10-darwin-aarch64.app.tar.gz"
     }
   }
 }
